@@ -61,9 +61,10 @@ Just before each level's Rule line, add 1–2 sentences that reveal one thing th
 - Drop a quotable line every 150–230 words that could stand alone as a clip.
 - Each level ends with the spoken verdict: "Rule [N]. At $[amount], you're not family. You're ___."
 - Include at least one tender, unspoken-love moment and at least one moment where the protagonist notices something ugly in themselves.
-- No intro, no "welcome back", no channel name, no call to subscribe, no advice, no headings, no emojis, no scene directions.
+- The ONLY direct question to the viewer is the closing comment question (see OUTPUT). No intro, no "welcome back", no channel name, no call to subscribe, no advice, no headings, no emojis, no scene directions.
 
 ## OUTPUT
 1. First line: "TARGET: 2,450 words".
 2. The full script as plain paragraphs, voiceover-ready.
-3. Last line: "FINAL: [N] words · est. runtime [N/150] min".
+3. After the final thesis line, end with this exact closing comment question as its own paragraph: "What's one thing your family stopped telling you when your money changed? Tell me in the comments. I read every one."
+4. Last line: "FINAL: [N] words · est. runtime [N/150] min".

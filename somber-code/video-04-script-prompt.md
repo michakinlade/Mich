@@ -54,9 +54,10 @@ Money doesn't leave all at once. It leaves in the order you stopped paying atten
 - Each level ends with a spoken verdict: "Rule [N]. At $[amount], ___."
 - Include at least one tender, unspoken-love moment per level from Dad, Hector or Elena, and at least one moment where the protagonist sees their own pride as the problem.
 - The ending is hopeful but earned: no rescue, no comeback money.
-- No intro, no "welcome back", no channel name, no call to subscribe, no advice, no headings, no emojis, no scene directions.
+- The ONLY direct question to the viewer is the closing comment question (see OUTPUT). No intro, no "welcome back", no channel name, no call to subscribe, no advice, no headings, no emojis, no scene directions.
 
 ## OUTPUT
 1. First line: "TARGET: 2,450 words".
 2. The full script as plain paragraphs, voiceover-ready.
-3. Last line: "FINAL: [N] words · est. runtime [N/150] min".
+3. After the final thesis line, end with this exact closing comment question as its own paragraph: "What did losing money teach you that having it never did? Tell me below. I read every one."
+4. Last line: "FINAL: [N] words · est. runtime [N/150] min".
