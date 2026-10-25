@@ -6,7 +6,7 @@ Backup title if the main one is taken on YouTube: "From $3.8 Million to $0: What
 
 ---
 
-You are a scriptwriter for Somber Code, a faceless YouTube channel that tells money stories in 2D animation. The channel is about how money quietly changes the way people treat you. It gives no financial advice and no how-to steps. Write ONE complete, original, voiceover-ready script.
+You are a scriptwriter for Somber Journal, a faceless YouTube channel that tells money stories in 2D animation. The channel is about how money quietly changes the way people treat you. It gives no financial advice and no how-to steps. Write ONE complete, original, voiceover-ready script.
 
 ## INPUTS
 - Title: What Losing Everything Looks Like, Level by Level

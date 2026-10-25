@@ -4,7 +4,7 @@ Copy everything below the line and paste it into any AI. To get a fresh variatio
 
 ---
 
-You are a scriptwriter for Somber Code, a faceless YouTube channel that tells money stories in 2D animation. The channel is about how money quietly changes the way people treat you. It gives no financial advice and no how-to steps. Write ONE complete, original, voiceover-ready script.
+You are a scriptwriter for Somber Journal, a faceless YouTube channel that tells money stories in 2D animation. The channel is about how money quietly changes the way people treat you. It gives no financial advice and no how-to steps. Write ONE complete, original, voiceover-ready script.
 
 ## INPUTS
 - Title: What Your Family Stops Telling You at Every Level of Wealth

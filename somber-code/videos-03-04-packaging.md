@@ -1,4 +1,4 @@
-# Somber Code: Videos 3 & 4 Packaging
+# Somber Journal: Videos 3 & 4 Packaging
 
 Both scripts follow `landlord-video/master-script-prompt.md` (Format A, Level Ladder), ~2,400 words, ~16 min.
 
