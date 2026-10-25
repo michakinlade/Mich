@@ -2,13 +2,15 @@
 
 Both scripts follow `landlord-video/master-script-prompt.md` (Format A, Level Ladder), ~2,400 words, ~16 min.
 
-## Video 3: How Your Family Treats You at Every Level of Wealth
+## Video 3: What Your Family Stops Telling You at Every Level of Wealth
 Script: `video-03-family-every-level-script.txt`
 
+POV Finance already has "How Your Family Treats You at Every Level of Wealth", so don't use that title. This angle is "what they stop telling you": the script's real payoff is the family going quiet as you get richer (the graduation you found out about from a photo, the surgery you heard about afterwards).
+
 **Title options**
-1. How Your Family Treats You at Every Level of Wealth
-2. What Your Family Really Thinks at Every Level of Money
-3. From the Folding Chair to the Head of the Table: Family at Every Level of Wealth
+1. What Your Family Stops Telling You at Every Level of Wealth
+2. You Became the Rich One in Your Family. Here's What Changed at Every Level
+3. You and Your Brother at Every Level of Wealth
 
 **Thumbnail:** a long Thanksgiving table seen from above. One cartoon figure sits on a rusty metal folding chair by the kitchen door, and the same figure sits alone in a velvet chair at the far head, with the family turned away. Text: "−$3,140 → $10M".
 
