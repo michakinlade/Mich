@@ -14,21 +14,21 @@ Alternatives:
 - Money changes everything. Quietly.
 - What money does to the people around you.
 
-## Channel description: Variant A (recommended)
-Somber Journal tells the quiet side of money.
-
-How your family talks to you at $900 and at $10 million. What leaves first when you lose everything. Why two people with the same paycheck end up living two different lives.
-
-Every story is told to you, about you, in simple 2D animation. No tips, no gurus, no get-rich-quick. Just the money stories nobody tells you, and what they do to the people inside them.
-
-New stories every week.
-
-## Channel description: Variant B (shorter)
+## Channel description: final (recommended)
 The money stories nobody tells you.
 
-Somber Journal is animated storytelling about how money quietly changes the way the world, and the people you love, treat you. One life, every level, no advice. Just the truth you feel but never hear out loud.
+Somber Journal is animated storytelling about how money quietly changes your life, and the people in it.
 
-New stories every week.
+Every story is told to you, about you. What your family stops telling you at every level of wealth. What leaves first when you lose everything. Why two friends with the same paycheck end up living two completely different lives. How banks, landlords and the people you love see you differently at −$3,000 and at $10 million.
+
+No get-rich-quick. No gurus. No financial advice. Just honest stories about money, family, pride, and what it costs to climb or to fall.
+
+New stories every week. Subscribe if you've ever felt the number in your account change the way people look at you.
+
+All stories are fiction. Characters are composites and numbers are illustrative.
+
+## Channel description: short version (About preview, social bios)
+The money stories nobody tells you. Animated stories about how money quietly changes your life, and the people in it. No advice, just the truth you feel but never hear out loud. New stories every week.
 
 ## Video description template (paste under every upload)
 [One-sentence hook from the video, e.g. "At negative $3,140, your family worries about you. At $10 million, they stop telling you anything."]
