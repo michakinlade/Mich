@@ -52,8 +52,29 @@ Circular YouTube profile avatar, flat 2D cartoon illustration with bold clean ou
 ## Logo prompt: Option 2, monogram
 Circular YouTube profile avatar, minimalist flat design. The letters "SJ" in an elegant serif typeface, muted gold on a deep navy circle, with a thin hairline ring inside the edge. A tiny ribbon bookmark hangs from the bottom of the "J". Subtle paper texture, high contrast, crisp and readable at small sizes, quiet and premium mood.
 
-## Banner prompt
-YouTube channel banner, 2560x1440, with all key content inside the central 1546x423 safe zone. Flat 2D cartoon illustration with bold black outlines and soft cel shading, in the same style as the channel's videos. On the left, a lone cartoon figure sits at a small kitchen table late at night under a single warm hanging lamp, writing in an open navy journal. A coffee mug, a folded bill and a few receipts sit beside it. Through the window behind, a muted city skyline in deep navy and slate gray, with one lit window far away. On the right, the channel name "Somber Journal" in a refined serif typeface in off-white, and beneath it a thin muted-gold line and the tagline "The money stories nobody tells you." in a small clean sans-serif. Mood: quiet, intimate, melancholic but warm. Limited palette of navy, charcoal, warm lamp amber and muted gold. Clean layout, high contrast.
+## Banner prompts (v2, built on your existing character and wordmark)
+
+AI image tools often garble text. Generate the art **without text** using Prompt A or B, then add the wordmark and tagline yourself in Canva or Photoshop using the layout spec below. Prompt C is for tools that handle text well.
+
+**Character reference (keep identical everywhere):** a young adult with messy, curly black hair, a black hoodie with the hood up, thick black rectangular glasses, tired half-lidded eyes, a slight flat frown, a deadpan, worn-out expression. Bold clean black outlines, flat 2D cartoon style, mostly grayscale.
+
+### Prompt A: character at the desk (recommended)
+YouTube channel banner background, 2560x1440, flat 2D cartoon illustration with bold clean black outlines and soft cel shading, mostly grayscale with a single warm accent. Near-black background (#121214) with a soft dark vignette at the edges. Left of center, inside the middle third of the image: a young adult with messy curly black hair, a black hoodie with the hood up, thick black rectangular glasses, tired half-lidded eyes and a slight flat frown, sitting at a small table late at night and writing in an open dark-navy journal. A single warm hanging lamp above them casts a soft amber glow (#E8B86B) on their face, hands and the pages. On the table: a coffee mug, a folded bill and two crumpled receipts. The right half of the center area is empty dark space reserved for text. Quiet, intimate, melancholic mood. All important content within the central 1546x423 area. No text, no logos, no buttons.
+
+### Prompt B: minimal portrait
+YouTube channel banner background, 2560x1440, near-black background (#121214) with a subtle film-grain texture and a soft dark vignette. Left of center, inside the middle third of the image: a large circular portrait in flat 2D cartoon style with bold black outlines, mostly grayscale, of a young adult with messy curly black hair, a black hoodie with the hood up, thick black rectangular glasses, tired half-lidded eyes and a slight flat frown. A thin muted-gold ring (#C9A45C) around the circle, and a faint warm amber glow behind it as if from an off-screen lamp. The right half of the center area is empty dark space reserved for text. Minimal, premium, melancholic mood. No text, no logos, no buttons.
+
+### Prompt C: all in one (only for tools that render text reliably)
+Same as Prompt A, plus: on the right side of the central area, the words "somber journal" in lowercase white, with "somber" in a heavy geometric sans-serif and "journal" in a thin light sans-serif; below it a thin muted-gold line (#C9A45C); below that the tagline "The money stories nobody tells you." in small letter-spaced off-white sans-serif; and below that, smaller and dimmer, "New stories every week". No subscribe button.
+
+### Layout spec for adding text in Canva or Photoshop
+- **Canvas:** 2560 x 1440 px. Keep all text and the character inside the central 1546 x 423 safe zone (x 507–2053, y 508–931).
+- **Wordmark:** keep your current one. "somber" in Montserrat ExtraBold (or Poppins Bold); "journal" in Montserrat Light / Thin. White (#F2EEE6). About 150–170 px tall.
+- **Gold line:** 2 px, muted gold (#C9A45C), the same width as the wordmark, 20 px below it.
+- **Tagline:** "The money stories nobody tells you." in Montserrat Regular, 44–48 px, letter-spacing +8%, off-white.
+- **Small line:** "New stories every week" in Montserrat Regular, 30 px, 60% opacity.
+- **Remove:** the Subscribe button.
+- **Check:** preview with YouTube's banner tool on mobile, desktop and TV before saving.
 
 ## Video watermark (YouTube Studio → Customization → Branding)
 A simplified version of the logo journal icon, white on transparent, 150x150 px. Show it for the entire video.
